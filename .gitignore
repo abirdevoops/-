@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+truthlens.db
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+.DS_Store
+Thumbs.db
